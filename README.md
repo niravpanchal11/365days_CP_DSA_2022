@@ -1,3 +1,3 @@
-# 200Days_CP_DSA
+# 365days_CP_DSA
 
 Linkedin, Youtube, Discord, Telegram 
